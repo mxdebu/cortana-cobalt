@@ -14,7 +14,9 @@ mx debug sempre ajudandon voces
 |__|_|  /__/\_ \         \____ |\___  >___  /____/\___  / 
       \/      \/              \/    \/    \/     /_____/  
 
+na primeira parte ele faz a instalação do metasploit , se nao quiser , pode ir para o repo git que eu escoli rsrsr
 '''
+
 acao = int(input("digite '1' para sim e '2' para nao"))
 if(acao==1):
 	print("voce disse que sim")
